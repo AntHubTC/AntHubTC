@@ -1,17 +1,11 @@
-### Hi there 👋
-
-<!--
-**FallenGodCoder/FallenGodCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 舍去一切无增值的爱好！
-- 🌱 舍去一切无意义的社交！
-- 👯 做好个人精力管理！
-- 🤔 选择大于努力！
-- 💬 空杯心态进行学习！
-- 📫 身为技术人，狂热技术，理所应当！
-- 
-- ⚡ 我是FallenGodCoder，一名java全栈工程师！
--->
+🔭 舍去一切无增值的爱好！
+🌱 舍去一切无意义的社交！
+👯 做好个人精力管理！
+🤔 选择大于努力！
+💬 空杯心态进行学习！
+📫 身为技术人，狂热技术，理所应当！
+ 
+⚡ 我是FallenGodCoder，一名java全栈工程师！
 
 <p style="font-size:22px;font-weight:bold;text-align:center;">
     撸起袖子，就是干！
